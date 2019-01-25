@@ -1,0 +1,21 @@
+body { background: lightyellow;
+       color: red;
+       font-size: 14pt; }
+
+body { font-family: 'Oswald', sans-serif; }
+
+h1 { font-size: 400%;
+     font-weight: bold;
+     color: green}
+h1 { border-left: 10px solid red }
+
+h1 { padding: 10px;
+	    margin: 2px;
+	    background: white }
+
+a { color:purple;
+    text-decoration: none }
+a:hover { color: greenyellow}
+
+title { font-weight: bold;
+         text-decoration: underline; }
